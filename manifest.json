@@ -1,0 +1,22 @@
+{
+  "name": "BlueBird resurrection for Twitter",
+  "description": "Tired of the ugly X-twitter new logo? This 16-line code extension will resurrect lovely BlueBird for your eyes.",
+  "version": "0.0.0.1",
+  "manifest_version": 3,
+  "content_scripts": [
+    {
+      "js": [
+        "content.js"
+      ],
+      "matches": [
+        "https://twitter.com/*"
+      ]
+    }
+  ],
+  "icons": {
+    "16": "bb_16.png",
+    "32": "bb_32.png",
+    "48": "bb_48.png",
+    "128": "bb_128.png"
+  }
+}
