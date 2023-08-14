@@ -1,2 +1,2 @@
-# bluebird
-BlueBird resurrection for Twitter - chrome extension
+# BlueBird
+BlueBird resurrection for Twitter - Chrome extension
